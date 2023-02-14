@@ -16,4 +16,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg"><img src="https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg" alt="Notable contributions" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg"><img src="https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg" alt="Achievements" style="max-width: 100%;"></a></p>
 
+  
+  ![Metrics](https://metrics.lecoq.io/louistotain)
+  
 </article>
