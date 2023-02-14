@@ -12,11 +12,6 @@
 <li>Developer at <a href="https://www.tremblaye-sa.fr/" rel="nofollow">TREMBLAYE</a></li>
 <li>Loves a freshly brewed cup of coffee</li>
 </ul>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg"><img src="https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg" alt="Metrics" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg"><img src="https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg" alt="Notable contributions" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg"><img src="https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg" alt="Achievements" style="max-width: 100%;"></a></p>
-
-  
-  ![Metrics](https://metrics.lecoq.io/louistotain)
+<p dir="auto">![Metrics](https://metrics.lecoq.io/louistotain)</p>
   
 </article>
