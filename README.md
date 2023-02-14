@@ -12,6 +12,10 @@
 <li>Developer at <a href="https://www.tremblaye-sa.fr/" rel="nofollow">TREMBLAYE</a></li>
 <li>Loves a freshly brewed cup of coffee</li>
 </ul>
-<p dir="auto">![Metrics](https://metrics.lecoq.io/louistotain)</p>
+<p dir="auto">
+  
+  ![Metrics](https://metrics.lecoq.io/louistotain)
+  
+</p>
   
 </article>
