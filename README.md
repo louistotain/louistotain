@@ -11,7 +11,8 @@
 <ul dir="auto">
 <li>Developer at <a href="https://www.tremblaye-sa.fr/" rel="nofollow">TREMBLAYE</a></li>
 <li>Loves volleyball and manga 🏐🍙</li>
-<li>I do photo editing on my Intagram page <a href="https://www.instagram.com/pokemix_art/">@Pokemix_art</a> ✏🖥</li>
+<li>Learn Japanese</li>
+<li>Make photo editing on my Intagram page <a href="https://www.instagram.com/pokemix_art/">@Pokemix_art</a> ✏🖥</li>
 </ul>
 <p dir="auto">
   
