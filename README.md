@@ -15,7 +15,7 @@
 </ul>
 <p dir="auto">
   
-  ![Metrics](https://metrics.lecoq.io/louistotain)
+  ![Metrics](https://metrics.lecoq.io/insights/louistotain)
   
 </p>
   
