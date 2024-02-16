@@ -14,9 +14,5 @@
 <li>My website : <a href="https://louistotain.github.io/" rel="nofollow">louistotain.github.io</a> (in progress)</li>
 </ul>
 <p dir="auto">
-  
-  ![Metrics](https://metrics.lecoq.io/louistotain)
-  
 </p>
-  
 </article>
