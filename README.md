@@ -3,6 +3,7 @@
   <a href="https://www.linkedin.com/in/louis-totain/" rel="nofollow">
     <img src="https://img.shields.io/static/v1?logo=linkedin&amp;style=flat-square&amp;color=0072b1&amp;label=LinkedIn&amp;message=%E2%98%86" alt="LinkedIn" data-canonical-src="https://img.shields.io/static/v1?logo=linkedin&amp;style=flat-square&amp;color=0072b1&amp;label=LinkedIn&amp;message=%E2%98%86" style="max-width: 100%;">
   </a>
+  <br>
     <a href="https://www.instagram.com/pokemix_art/" rel="nofollow">
     <img src="https://img.shields.io/static/v1?logo=linkedin&amp;style=flat-square&amp;color=0072b1&amp;label=LinkedIn&amp;message=%E2%98%86" alt="LinkedIn" data-canonical-src="https://img.shields.io/static/v1?logo=linkedin&amp;style=flat-square&amp;color=0072b1&amp;label=LinkedIn&amp;message=%E2%98%86" style="max-width: 100%;">
   </a>
