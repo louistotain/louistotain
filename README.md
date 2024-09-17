@@ -13,7 +13,6 @@
 <ul dir="auto">
 <li>Web developer at <a href="https://www.tremblaye-sa.fr/" rel="nofollow">TREMBLAYE</a></li>
 <li>Loves volleyball and manga 🏐🍙</li>
-<li>Learn Japanese 🏮</li>
 <li>Make photo editing on my Intagram page <a href="https://www.instagram.com/pokemix_art/">@Pokemix_art</a> ✏🖥</li>
 <li>My website : <a href="https://louistotain.github.io/" rel="nofollow">louistotain.github.io</a> (in progress)</li>
 </ul>
